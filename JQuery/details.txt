@@ -1,0 +1,9 @@
+Link of website for jquery script:
+https://developers.google.com/speed/libraries
+
+Latest jquery script:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+
+
+https://www.w3schools.com/jquery/jquery_hide_show.asp
+http://api.jquery.com/category/effects/
